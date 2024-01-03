@@ -1,0 +1,7 @@
+{
+  "name": "CompReut",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
